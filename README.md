@@ -56,7 +56,7 @@
 ## 👤 Sobre mim
 
 - Estudante da ETEC, 3º ano, focado em Desenvolvimento de Sistemas  
-- Apaixonado por backend, APIs e apps multiplataforma  
+- Curto backend, APIs e apps multiplataforma  
 - Sempre aprendendo e evoluindo em lógica, Java, C# e arquitetura  
 
 ---
