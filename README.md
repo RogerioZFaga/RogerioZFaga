@@ -52,19 +52,10 @@
 
 </div>
 
----
-
-## 📌 Projetos em destaque
-
-- **MahjongFingertips** – App em .NET MAUI com MVVM  
-- **Mahjong API** – Backend em Spring Boot  
-- **MetasApp** – CRUD completo em MAUI com API e persistência  
-
----
 
 ## 👤 Sobre mim
 
-- Estudante da ETEC, 2º ano, focado em Desenvolvimento de Sistemas  
+- Estudante da ETEC, 3º ano, focado em Desenvolvimento de Sistemas  
 - Apaixonado por backend, APIs e apps multiplataforma  
 - Sempre aprendendo e evoluindo em lógica, Java, C# e arquitetura  
 
@@ -72,8 +63,7 @@
 
 ## 📫 Contato
 
-**Email:** seu-email  
-**LinkedIn:** seu-linkedin
+**Email:** rogeriozfaga@gmail.com  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A00FF&height=150&section=footer" />
